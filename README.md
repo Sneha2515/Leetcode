@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Sneha2515/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Sneha2515/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sneha2515/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sneha2515/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sneha2515/Leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
