@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Sneha2515/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Sneha2515/Leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Sneha2515/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sneha2515/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Sneha2515/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
