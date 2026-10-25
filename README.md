@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sneha2515/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sneha2515/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/Sneha2515/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sneha2515/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sneha2515/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sneha2515/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
+| [1254-number-of-closed-islands](https://github.com/Sneha2515/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha2515/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Sneha2515/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Sneha2515/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Sneha2515/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
