@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Sneha2515/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sneha2515/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sneha2515/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Sneha2515/Leetcode/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sneha2515/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sneha2515/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sneha2515/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Enumeration
 |  |
 | ------- |
