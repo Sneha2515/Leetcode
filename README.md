@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sneha2515/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha2515/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sneha2515/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sneha2515/Leetcode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sneha2515/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sneha2515/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
