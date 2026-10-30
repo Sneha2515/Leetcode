@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sneha2515/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sneha2515/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Sneha2515/Leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Sneha2515/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sneha2515/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sneha2515/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sneha2515/Leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Sneha2515/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sneha2515/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sneha2515/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sneha2515/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sneha2515/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sneha2515/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Enumeration
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sneha2515/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
