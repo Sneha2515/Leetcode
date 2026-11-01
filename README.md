@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sneha2515/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Sneha2515/Leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Sneha2515/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sneha2515/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sneha2515/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sneha2515/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha2515/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sneha2515/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sneha2515/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha2515/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
