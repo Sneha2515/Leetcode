@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sneha2515/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sneha2515/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sneha2515/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sneha2515/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sneha2515/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sneha2515/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sneha2515/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sneha2515/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sneha2515/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha2515/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sneha2515/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sneha2515/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sneha2515/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sneha2515/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sneha2515/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/Sneha2515/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sneha2515/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
 |  |
 | ------- |
@@ -144,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sneha2515/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sneha2515/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sneha2515/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
