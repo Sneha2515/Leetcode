@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Sneha2515/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sneha2515/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Sneha2515/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sneha2515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sneha2515/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sneha2515/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sneha2515/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sneha2515/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sneha2515/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sneha2515/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sneha2515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sneha2515/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sneha2515/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ternary Search
@@ -83,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sneha2515/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Sneha2515/Leetcode/tree/master/0202-happy-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sneha2515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sneha2515/Leetcode/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sneha2515/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sneha2515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sneha2515/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sneha2515/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Quicksort
