@@ -66,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha2515/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sneha2515/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sneha2515/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sneha2515/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sneha2515/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sneha2515/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
